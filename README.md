@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Lucaz
+- 👋 Hi, I’m Lucas
 - 👀 I’m interested in Tecnology
 - 🌱 I’m currently learning Programation
 - 💞️ I’m looking to collaborate on nothing
